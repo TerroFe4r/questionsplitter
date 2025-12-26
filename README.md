@@ -3,4 +3,4 @@ Wanna split your questiong for exam between you and your mates? This programm wi
 
 question_splitter.py - main code like main.py
 
-requirement.txt - standard Python configuration file that lists all external packages (dependencies) required to run a Python project.
+requirement.txt - list of external packages (dependencies) required to run a project
